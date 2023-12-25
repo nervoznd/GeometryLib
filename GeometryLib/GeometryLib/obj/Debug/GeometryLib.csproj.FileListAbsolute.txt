@@ -1,0 +1,6 @@
+G:\Projects\dotnet\nervoznd\GeometryLib\GeometryLib\GeometryLib\obj\Debug\GeometryLib.csproj.AssemblyReference.cache
+G:\Projects\dotnet\nervoznd\GeometryLib\GeometryLib\GeometryLib\obj\Debug\GeometryLib.csproj.CoreCompileInputs.cache
+G:\Projects\dotnet\nervoznd\GeometryLib\GeometryLib\GeometryLib\bin\Debug\GeometryLib.dll
+G:\Projects\dotnet\nervoznd\GeometryLib\GeometryLib\GeometryLib\bin\Debug\GeometryLib.pdb
+G:\Projects\dotnet\nervoznd\GeometryLib\GeometryLib\GeometryLib\obj\Debug\GeometryLib.dll
+G:\Projects\dotnet\nervoznd\GeometryLib\GeometryLib\GeometryLib\obj\Debug\GeometryLib.pdb
